@@ -26,7 +26,11 @@ An aspiring full-stack developer aims to master both frontend and backend web de
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mr_.khan_.06)
 
 ## Github Stats
+![Shahib's github stats](https://github-readme-stats.vercel.app/api?username=mr-khan-06)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-khan-06)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-khan-06)
 
 <!--
 **mr-khan-06/mr-khan-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
